@@ -1,0 +1,11 @@
+/text-1.txt
+/text-2.txt
+
+
+#Auto-fen-files
+
+auto-gen-files/a.txt
+
+auto-gen-files/b.txt
+
+#auto-gen-files/* for all file
